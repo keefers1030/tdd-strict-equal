@@ -4,7 +4,7 @@ const strictEquals = (a, b) => {
         result = true;
     }
     else {
-        restult = false;
+        result = false;
     }
 
     module.exports = strictEquals
